@@ -1,4 +1,4 @@
-# TypeScrit TodoApp Example with React + Redux
+# TypeScript TodoApp Example with React + Redux
 
 ## Run
 
